@@ -1,5 +1,5 @@
-<img src="https://game.42sp.org.br/static/assets/images/42-saopaulo.png" align="left" height=80>
-<img src="https://game.42sp.org.br/static/assets/achievements/libfte.png" align="right" height=100>
+<div><img src="https://game.42sp.org.br/static/assets/images/42-saopaulo.png" height=80>
+<img src="https://game.42sp.org.br/static/assets/achievements/libfte.png" align="right" height=100></div>
 
 <br>
 
